@@ -84,11 +84,12 @@ author:
   avatar           : "profile.JPG"
   bio              : "Fourth-year Computer Science Major at UC San Diego\nIncoming Software Engineer at Google"
   location         : "San Diego, CA"
+  employer         : 
   email            :  "x6wu@ucsd.edu"
   uri              :
   github           : "x6wu"
   instagram        :
-  linkedin         : "www.linkedin.com/in/xinyu-wu" 
+  linkedin         : "/xinyu-wu" 
 
 
 # Reading Files
