@@ -82,14 +82,13 @@ analytics:
 author:
   name             : "Xinyu Wu"
   avatar           : "profile.JPG"
-  bio              : "Fourth year Computer Science Major at UC San Diego\nIncoming Software Engineer at Google"
+  bio              : "Fourth-year Computer Science Major at UC San Diego\nIncoming Software Engineer at Google"
   location         : "San Diego, CA"
-  employer         :  "Google"
   email            :  "x6wu@ucsd.edu"
   uri              :
   github           : "x6wu"
   instagram        :
-  linkedin         : 
+  linkedin         : "www.linkedin.com/in/xinyu-wu" 
 
 
 # Reading Files
