@@ -1,14 +1,10 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /resume
+permalink: /resume/
 author_profile: true
-redirect_from:
-  - /resume/
-  - /resume.html
 ---
 
-{% include base_path %}
 
 Education
 ======
