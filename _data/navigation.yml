@@ -11,4 +11,7 @@ main:
 
   - title: "Misc"
     url: /misc/
-      
+
+  - title: "test"
+    url: /test/
+

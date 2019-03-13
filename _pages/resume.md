@@ -3,54 +3,46 @@ layout: archive
 title: "Resume"
 permalink: /resume/
 author_profile: true
+redirect_from: 
+    - /resume.html
+    - /resume
 ---
 
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+---
+**University of California, San Diego**, La Jolla, CA<br/>
+Bachelor of Science in Computer Science with minor in Mathematics<br/>
+GPA: 3.877<br/>
+Provosts Honors for all quarters<br/>
+Relevant Coursework: Intro to AI: Statistical Approcaches; Intro to AI: Search and Reasoning; 
+Principles of Computer Operating System; Theory of Computability; Networded Services; Computer Security;
+Database Systems Principles; Combinatorics; Intro to Cryptography
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
+Java, Python, C/C++, C#, Assembly, R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Experience
+---
+**Software Development Engineer Intern**, Amazon, Seattle WA<br/>
+June 2018-September 2018<br/>
+Designed and built dispute transaction processor for Amazon Pay's payment service providers using Java.<br/>
+Pipelined and deployed dispute processor on AWS suite.<br/>
+
+**Undergraduate Research Assistant**, System Energy Efficient Lab, UC San Diego, La Jolla, CA<br/>
+March 2018-Present<br/>
+//TODO<br/>
+
+**Automation Intern**, Peregrine Semiconductor, San Diego, CA<br/>
+June 2017-March 2018<br/>
+Designed and implemented algorithms for MPW retile floor planning automation and optimization using C#.<br/>
+Developed internal data analytical tools using VBA.<br/>
+
+**Undergraduate Teaching Assistant**, UCSD Department of Chemistry, La Jolla, CA<br/>
+September 2017-December 2017<br/>
+Held weekly discussion sections and office hours to review lecture contents and answer individual questions.<br/>
+Proctored and graded exams to evaluate students' performance in introductory general chemistry class.<br/>
+
+
+
