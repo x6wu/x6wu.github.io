@@ -19,7 +19,9 @@ This is a page where I ramble on about my non-academic interests which include:
 
 <details><summary><font size="5"><b>Sitcoms</b></font></summary>
 <p>
-Here is a list of sitcoms that I personally swear by:
+I have been a big fan of sitcoms since I was younger. After all, we could all use some laugh after a long day.
+Here are the shows I particularly enjoyed and hope you have fun watching them too!
+
 Growing Pains<br>
 Brooklyn 99<br>
 Modern Family<br>
