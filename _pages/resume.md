@@ -32,7 +32,8 @@ Pipelined and deployed dispute processor on AWS suite.<br/>
 
 **Undergraduate Research Assistant**, System Energy Efficient Lab, UC San Diego, La Jolla, CA<br/>
 March 2018-Present<br/>
-//TODO<br/>
+Implement hyperdimension computing algorithms.<br/>
+Collect and analyze empirical results for publications and possible algorithm improvements.<br/>
 
 **Automation Intern**, Peregrine Semiconductor, San Diego, CA<br/>
 June 2017-March 2018<br/>
