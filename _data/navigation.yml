@@ -3,15 +3,13 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "Projects"
-    url: /projects/    
+    #- title: "Projects"
+    #url: /projects/    
 
-  - title: "Research"
-    url: /research/
+    #- title: "Research"
+    #url: /research/
 
   - title: "Misc"
     url: /misc/
 
-  - title: "test"
-    url: /test/
 
